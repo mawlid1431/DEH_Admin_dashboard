@@ -1,0 +1,323 @@
+<!-- Administrator Analytics Dashboard SVG -->
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="70" fill="#1e293b"/>
+  <text x="40" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Digital Empowerment Hub
+  </text>
+  <text x="40" y="50" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8">
+    Administrator Dashboard
+  </text>
+  
+  <!-- Navigation Tabs -->
+  <rect x="250" y="25" width="80" height="30" fill="#3b82f6" rx="4"/>
+  <text x="290" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Analytics
+  </text>
+  <text x="360" y="45" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">
+    Users
+  </text>
+  <text x="410" y="45" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">
+    Courses
+  </text>
+  <text x="470" y="45" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">
+    Reports
+  </text>
+  <text x="530" y="45" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">
+    Settings
+  </text>
+  
+  <!-- User Profile -->
+  <circle cx="1100" cy="40" r="20" fill="#10b981"/>
+  <text x="1100" y="46" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Admin
+  </text>
+  <rect x="1050" y="25" width="30" height="30" fill="none" stroke="#94a3b8" stroke-width="1" rx="4"/>
+  <text x="1065" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#cbd5e1">
+    🔔
+  </text>
+  
+  <!-- Main Content -->
+  <div>
+    <!-- Key Metrics Row -->
+    <g>
+      <!-- Total Users Card -->
+      <rect x="40" y="90" width="260" height="120" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+      <rect x="60" y="110" width="50" height="50" fill="#dbeafe" rx="8"/>
+      <text x="85" y="140" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#3b82f6">
+        👥
+      </text>
+      <text x="130" y="125" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+        Total Users
+      </text>
+      <text x="130" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">
+        2,847
+      </text>
+      <text x="130" y="170" font-family="Arial, sans-serif" font-size="12" fill="#10b981">
+        ↗ +12% this month
+      </text>
+      <text x="130" y="185" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+        Active: 1,923 (67%)
+      </text>
+      
+      <!-- Course Completions Card -->
+      <rect x="320" y="90" width="260" height="120" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+      <rect x="340" y="110" width="50" height="50" fill="#dcfce7" rx="8"/>
+      <text x="365" y="140" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#16a34a">
+        📚
+      </text>
+      <text x="410" y="125" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+        Course Completions
+      </text>
+      <text x="410" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">
+        1,456
+      </text>
+      <text x="410" y="170" font-family="Arial, sans-serif" font-size="12" fill="#10b981">
+        ↗ +8% this month
+      </text>
+      <text x="410" y="185" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+        Avg. time: 3.2 hours
+      </text>
+      
+      <!-- Revenue Card -->
+      <rect x="600" y="90" width="260" height="120" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+      <rect x="620" y="110" width="50" height="50" fill="#fef3c7" rx="8"/>
+      <text x="645" y="140" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#d97706">
+        💰
+      </text>
+      <text x="690" y="125" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+        Monthly Revenue
+      </text>
+      <text x="690" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">
+        $24,680
+      </text>
+      <text x="690" y="170" font-family="Arial, sans-serif" font-size="12" fill="#10b981">
+        ↗ +15% this month
+      </text>
+      <text x="690" y="185" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+        Avg. per user: $8.67
+      </text>
+      
+      <!-- System Health Card -->
+      <rect x="880" y="90" width="260" height="120" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+      <rect x="900" y="110" width="50" height="50" fill="#fce7f3" rx="8"/>
+      <text x="925" y="140" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ec4899">
+        ⚡
+      </text>
+      <text x="970" y="125" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+        System Health
+      </text>
+      <text x="970" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">
+        98.5%
+      </text>
+      <text x="970" y="170" font-family="Arial, sans-serif" font-size="12" fill="#10b981">
+        ↗ Uptime
+      </text>
+      <text x="970" y="185" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+        Response: 245ms avg
+      </text>
+    </g>
+    
+    <!-- Charts Row -->
+    <g>
+      <!-- User Growth Chart -->
+      <rect x="40" y="230" width="550" height="280" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+      <text x="60" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+        User Growth Trends
+      </text>
+      <text x="60" y="280" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+        Last 6 months
+      </text>
+      
+      <!-- Chart Area -->
+      <rect x="80" y="300" width="480" height="180" fill="#f8fafc"/>
+      
+      <!-- Chart Grid Lines -->
+      <g stroke="#e2e8f0" stroke-width="1">
+        <line x1="80" y1="340" x2="560" y2="340"/>
+        <line x1="80" y1="380" x2="560" y2="380"/>
+        <line x1="80" y1="420" x2="560" y2="420"/>
+        <line x1="80" y1="460" x2="560" y2="460"/>
+      </g>
+      
+      <!-- Data Line -->
+      <polyline points="80,450 160,430 240,410 320,380 400,350 480,320 560,290" 
+               fill="none" stroke="#3b82f6" stroke-width="3"/>
+      
+      <!-- Data Points -->
+      <circle cx="80" cy="450" r="4" fill="#3b82f6"/>
+      <circle cx="160" cy="430" r="4" fill="#3b82f6"/>
+      <circle cx="240" cy="410" r="4" fill="#3b82f6"/>
+      <circle cx="320" cy="380" r="4" fill="#3b82f6"/>
+      <circle cx="400" cy="350" r="4" fill="#3b82f6"/>
+      <circle cx="480" cy="320" r="4" fill="#3b82f6"/>
+      <circle cx="560" cy="290" r="4" fill="#3b82f6"/>
+      
+      <!-- X-axis Labels -->
+      <text x="80" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">Jan</text>
+      <text x="160" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">Feb</text>
+      <text x="240" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">Mar</text>
+      <text x="320" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">Apr</text>
+      <text x="400" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">May</text>
+      <text x="480" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">Jun</text>
+      <text x="560" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">Jul</text>
+      
+      <!-- Y-axis Labels -->
+      <text x="70" y="465" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">1k</text>
+      <text x="70" y="425" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">2k</text>
+      <text x="70" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">3k</text>
+      <text x="70" y="345" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">4k</text>
+      <text x="70" y="305" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">5k</text>
+      
+      <!-- Popular Courses Panel -->
+      <rect x="610" y="230" width="530" height="280" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+      <text x="630" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+        Most Popular Courses
+      </text>
+      <text x="630" y="280" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+        Enrollment & completion rates
+      </text>
+      
+      <!-- Course List -->
+      <g>
+        <!-- Course 1 -->
+        <rect x="630" y="295" width="490" height="35" fill="#f1f5f9" rx="4"/>
+        <text x="645" y="315" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">
+          1. Digital Literacy Fundamentals
+        </text>
+        <text x="1040" y="315" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#10b981">
+          847 enrolled • 89% completion
+        </text>
+        <rect x="645" y="318" width="250" height="4" fill="#e2e8f0" rx="2"/>
+        <rect x="645" y="318" width="223" height="4" fill="#10b981" rx="2"/>
+        
+        <!-- Course 2 -->
+        <rect x="630" y="335" width="490" height="35" fill="#f8fafc" rx="4"/>
+        <text x="645" y="355" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">
+          2. Email & Communication Skills
+        </text>
+        <text x="1040" y="355" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#3b82f6">
+          734 enrolled • 76% completion
+        </text>
+        <rect x="645" y="358" width="250" height="4" fill="#e2e8f0" rx="2"/>
+        <rect x="645" y="358" width="190" height="4" fill="#3b82f6" rx="2"/>
+        
+        <!-- Course 3 -->
+        <rect x="630" y="375" width="490" height="35" fill="#f1f5f9" rx="4"/>
+        <text x="645" y="395" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">
+          3. Online Safety & Security
+        </text>
+        <text x="1040" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#f59e0b">
+          623 enrolled • 82% completion
+        </text>
+        <rect x="645" y="398" width="250" height="4" fill="#e2e8f0" rx="2"/>
+        <rect x="645" y="398" width="205" height="4" fill="#f59e0b" rx="2"/>
+        
+        <!-- Course 4 -->
+        <rect x="630" y="415" width="490" height="35" fill="#f8fafc" rx="4"/>
+        <text x="645" y="435" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">
+          4. Social Media Basics
+        </text>
+        <text x="1040" y="435" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#8b5cf6">
+          512 enrolled • 71% completion
+        </text>
+        <rect x="645" y="438" width="250" height="4" fill="#e2e8f0" rx="2"/>
+        <rect x="645" y="438" width="178" height="4" fill="#8b5cf6" rx="2"/>
+        
+        <!-- Course 5 -->
+        <rect x="630" y="455" width="490" height="35" fill="#f1f5f9" rx="4"/>
+        <text x="645" y="475" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">
+          5. Banking & Financial Services Online
+        </text>
+        <text x="1040" y="475" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#ef4444">
+          389 enrolled • 68% completion
+        </text>
+        <rect x="645" y="478" width="250" height="4" fill="#e2e8f0" rx="2"/>
+        <rect x="645" y="478" width="170" height="4" fill="#ef4444" rx="2"/>
+      </g>
+    </g>
+    
+    <!-- Recent Activity Panel -->
+    <rect x="40" y="530" width="1100" height="220" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+    <text x="60" y="560" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Recent System Activity
+    </text>
+    <text x="60" y="580" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+      Live updates from the last 24 hours
+    </text>
+    
+    <!-- Activity List -->
+    <g>
+      <!-- Activity 1 -->
+      <circle cx="80" cy="605" r="6" fill="#10b981"/>
+      <text x="100" y="600" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+        New user registration
+      </text>
+      <text x="100" y="615" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+        Sarah Johnson completed profile setup • Digital Literacy course • 2 minutes ago
+      </text>
+      
+      <!-- Activity 2 -->
+      <circle cx="80" cy="635" r="6" fill="#3b82f6"/>
+      <text x="100" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+        Course completion
+      </text>
+      <text x="100" y="645" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+        Michael Chen completed "Email Setup and Management" • Certificate issued • 8 minutes ago
+      </text>
+      
+      <!-- Activity 3 -->
+      <circle cx="80" cy="665" r="6" fill="#f59e0b"/>
+      <text x="100" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+        System maintenance
+      </text>
+      <text x="100" y="675" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+        Scheduled database optimization completed • Performance improved by 12% • 15 minutes ago
+      </text>
+      
+      <!-- Activity 4 -->
+      <circle cx="80" cy="695" r="6" fill="#8b5cf6"/>
+      <text x="100" y="690" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+        New mentor assignment
+      </text>
+      <text x="100" y="705" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+        Dr. Patricia Williams assigned to 12 new students • Online Safety course • 23 minutes ago
+      </text>
+      
+      <!-- Activity 5 -->
+      <circle cx="80" cy="725" r="6" fill="#ef4444"/>
+      <text x="100" y="720" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+        Security alert resolved
+      </text>
+      <text x="100" y="735" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+        Suspicious login attempt blocked • IP: 192.168.1.1 • Security team notified • 31 minutes ago
+      </text>
+    </g>
+    
+    <!-- Right Side Quick Actions -->
+    <g>
+      <rect x="600" y="590" width="120" height="35" fill="#3b82f6" rx="4"/>
+      <text x="660" y="612" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+        View All Activity
+      </text>
+      
+      <rect x="740" y="590" width="120" height="35" fill="#10b981" rx="4"/>
+      <text x="800" y="612" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+        Export Report
+      </text>
+      
+      <rect x="880" y="590" width="120" height="35" fill="#f59e0b" rx="4"/>
+      <text x="940" y="612" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+        System Health
+      </text>
+      
+      <rect x="1020" y="590" width="120" height="35" fill="#8b5cf6" rx="4"/>
+      <text x="1080" y="612" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+        Send Alert
+      </text>
+    </g>
+  </div>
+</svg>

@@ -1,0 +1,164 @@
+<!-- Learning Hub Interface Mockup SVG -->
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  
+  <!-- Header Navigation -->
+  <rect x="0" y="0" width="1200" height="70" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="40" y="30" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    Home > Courses > Digital Literacy > Chapter 3
+  </text>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">
+    Email Setup and Management
+  </text>
+  <rect x="950" y="20" width="100" height="30" fill="#10b981" rx="4"/>
+  <text x="1000" y="40" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Next Lesson
+  </text>
+  <rect x="1070" y="20" width="80" height="30" fill="#64748b" rx="4"/>
+  <text x="1110" y="40" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Menu
+  </text>
+  
+  <!-- Main Content Area -->
+  <div>
+    <!-- Video Player Area -->
+    <rect x="40" y="90" width="720" height="405" fill="#000000" rx="8"/>
+    <circle cx="400" cy="292" r="40" fill="rgba(255,255,255,0.8)"/>
+    <polygon points="385,277 385,307 415,292" fill="#000000"/>
+    <text x="400" y="540" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Video: Setting up your first email account
+    </text>
+    <text x="400" y="560" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#64748b">
+      Duration: 8:45 • Progress: 3:22
+    </text>
+    
+    <!-- Progress Bar -->
+    <rect x="40" y="570" width="720" height="8" fill="#e2e8f0" rx="4"/>
+    <rect x="40" y="570" width="280" height="8" fill="#3b82f6" rx="4"/>
+    <circle cx="320" cy="574" r="8" fill="#3b82f6"/>
+  </div>
+  
+  <!-- Sidebar Content -->
+  <rect x="780" y="90" width="380" height="660" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+  
+  <!-- Lesson Navigation -->
+  <text x="800" y="125" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    Chapter 3: Email & Communication
+  </text>
+  
+  <!-- Lesson List -->
+  <rect x="800" y="140" width="340" height="40" fill="#f1f5f9" rx="4"/>
+  <circle cx="820" cy="160" r="8" fill="#10b981"/>
+  <text x="820" y="165" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">✓</text>
+  <text x="840" y="155" font-family="Arial, sans-serif" font-size="14" fill="#1e293b">1. Introduction to Email</text>
+  <text x="840" y="170" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Completed • 6:30</text>
+  
+  <rect x="800" y="190" width="340" height="40" fill="#3b82f6" rx="4"/>
+  <circle cx="820" cy="210" r="8" fill="#ffffff"/>
+  <text x="820" y="215" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#3b82f6">▶</text>
+  <text x="840" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2. Email Setup Process</text>
+  <text x="840" y="220" font-family="Arial, sans-serif" font-size="12" fill="#bfdbfe">In Progress • 8:45</text>
+  
+  <rect x="800" y="240" width="340" height="40" fill="#f8fafc" rx="4"/>
+  <circle cx="820" cy="260" r="8" fill="#94a3b8"/>
+  <text x="820" y="265" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">3</text>
+  <text x="840" y="255" font-family="Arial, sans-serif" font-size="14" fill="#64748b">3. Email Security Best Practices</text>
+  <text x="840" y="270" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8">Locked • 7:20</text>
+  
+  <rect x="800" y="290" width="340" height="40" fill="#f8fafc" rx="4"/>
+  <circle cx="820" cy="310" r="8" fill="#94a3b8"/>
+  <text x="820" y="315" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">4</text>
+  <text x="840" y="305" font-family="Arial, sans-serif" font-size="14" fill="#64748b">4. Managing Your Inbox</text>
+  <text x="840" y="320" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8">Locked • 9:15</text>
+  
+  <!-- Notes Section -->
+  <text x="800" y="370" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    Your Notes
+  </text>
+  
+  <rect x="800" y="380" width="340" height="120" fill="#fffbeb" rx="4" stroke="#fbbf24"/>
+  <text x="815" y="400" font-family="Arial, sans-serif" font-size="12" fill="#92400e">
+    📝 Remember:
+  </text>
+  <text x="815" y="420" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    • Use strong passwords for email accounts
+  </text>
+  <text x="815" y="435" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    • Enable two-factor authentication
+  </text>
+  <text x="815" y="450" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    • Check sender before opening attachments
+  </text>
+  <text x="815" y="480" font-family="Arial, sans-serif" font-size="10" fill="#a16207">
+    + Add note
+  </text>
+  
+  <!-- Quiz Section -->
+  <text x="800" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    Quick Quiz
+  </text>
+  
+  <rect x="800" y="540" width="340" height="80" fill="#f0f9ff" rx="4" stroke="#0ea5e9"/>
+  <text x="815" y="560" font-family="Arial, sans-serif" font-size="12" fill="#0c4a6e">
+    What is the most secure way to create an email password?
+  </text>
+  <rect x="815" y="570" width="200" height="25" fill="#ffffff" rx="2" stroke="#cbd5e1"/>
+  <text x="825" y="587" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    Type your answer here...
+  </text>
+  <rect x="1025" y="570" width="60" height="25" fill="#0ea5e9" rx="2"/>
+  <text x="1055" y="587" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    Submit
+  </text>
+  
+  <!-- Resources Section -->
+  <text x="800" y="650" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    Resources
+  </text>
+  
+  <rect x="800" y="660" width="340" height="60" fill="#f8fafc" rx="4"/>
+  <text x="815" y="680" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+    📄 Email Setup Guide (PDF)
+  </text>
+  <text x="815" y="695" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+    🔗 Gmail Security Checklist
+  </text>
+  <text x="815" y="710" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+    💬 Ask Your Mentor
+  </text>
+  
+  <!-- Bottom Content Controls -->
+  <rect x="40" y="600" width="720" height="80" fill="#ffffff" rx="8" stroke="#e2e8f0"/>
+  <text x="60" y="625" font-family="Arial, sans-serif" font-size="14" fill="#1e293b">
+    Lesson Controls
+  </text>
+  
+  <rect x="60" y="635" width="80" height="30" fill="#64748b" rx="4"/>
+  <text x="100" y="655" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ⏮ Previous
+  </text>
+  
+  <rect x="160" y="635" width="60" height="30" fill="#3b82f6" rx="4"/>
+  <text x="190" y="655" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ⏸ Pause
+  </text>
+  
+  <rect x="240" y="635" width="80" height="30" fill="#10b981" rx="4"/>
+  <text x="280" y="655" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Next ⏭
+  </text>
+  
+  <text x="350" y="655" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    Speed: 1.0x
+  </text>
+  
+  <text x="420" y="655" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    Quality: 720p
+  </text>
+  
+  <rect x="600" y="635" width="100" height="30" fill="#f59e0b" rx="4"/>
+  <text x="650" y="655" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Mark Complete
+  </text>
+</svg>

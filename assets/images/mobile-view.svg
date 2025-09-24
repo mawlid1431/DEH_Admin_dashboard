@@ -1,0 +1,118 @@
+<!-- Mobile Responsive View Mockup SVG -->
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="1200" fill="#f1f5f9"/>
+  
+  <!-- Phone Frame -->
+  <rect x="50" y="50" width="300" height="600" fill="#1f2937" rx="25"/>
+  <rect x="70" y="70" width="260" height="560" fill="#ffffff" rx="15"/>
+  
+  <!-- Phone Header -->
+  <rect x="70" y="70" width="260" height="60" fill="#3b82f6" rx="15"/>
+  <text x="200" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    DEH Mobile
+  </text>
+  
+  <!-- Mobile Course Cards -->
+  <rect x="90" y="150" width="220" height="80" fill="#f8fafc" rx="8" stroke="#e2e8f0"/>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+    Digital Literacy
+  </text>
+  <text x="100" y="195" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    Progress: 65%
+  </text>
+  <rect x="100" y="205" width="160" height="6" fill="#e2e8f0" rx="3"/>
+  <rect x="100" y="205" width="104" height="6" fill="#10b981" rx="3"/>
+  
+  <rect x="90" y="250" width="220" height="80" fill="#f8fafc" rx="8" stroke="#e2e8f0"/>
+  <text x="100" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+    Coding Basics
+  </text>
+  <text x="100" y="295" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    Progress: 42%
+  </text>
+  <rect x="100" y="305" width="160" height="6" fill="#e2e8f0" rx="3"/>
+  <rect x="100" y="305" width="67" height="6" fill="#f59e0b" rx="3"/>
+  
+  <!-- Tablet Frame -->
+  <rect x="400" y="150" width="350" height="500" fill="#1f2937" rx="20"/>
+  <rect x="415" y="165" width="320" height="470" fill="#ffffff" rx="10"/>
+  
+  <!-- Tablet Header -->
+  <rect x="415" y="165" width="320" height="50" fill="#8b5cf6" rx="10"/>
+  <text x="575" y="195" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    DEH Dashboard
+  </text>
+  
+  <!-- Tablet Content Grid -->
+  <rect x="435" y="235" width="130" height="100" fill="#f1f5f9" rx="6" stroke="#e2e8f0"/>
+  <text x="500" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Digital Literacy
+  </text>
+  <text x="500" y="280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">
+    65% Complete
+  </text>
+  <rect x="445" y="290" width="110" height="4" fill="#e2e8f0" rx="2"/>
+  <rect x="445" y="290" width="72" height="4" fill="#10b981" rx="2"/>
+  
+  <rect x="585" y="235" width="130" height="100" fill="#f1f5f9" rx="6" stroke="#e2e8f0"/>
+  <text x="650" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Programming
+  </text>
+  <text x="650" y="280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">
+    42% Complete
+  </text>
+  <rect x="595" y="290" width="110" height="4" fill="#e2e8f0" rx="2"/>
+  <rect x="595" y="290" width="46" height="4" fill="#f59e0b" rx="2"/>
+  
+  <rect x="435" y="355" width="130" height="100" fill="#f1f5f9" rx="6" stroke="#e2e8f0"/>
+  <text x="500" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Marketing
+  </text>
+  <text x="500" y="400" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">
+    23% Complete
+  </text>
+  <rect x="445" y="410" width="110" height="4" fill="#e2e8f0" rx="2"/>
+  <rect x="445" y="410" width="25" height="4" fill="#ef4444" rx="2"/>
+  
+  <rect x="585" y="355" width="130" height="100" fill="#f1f5f9" rx="6" stroke="#e2e8f0"/>
+  <text x="650" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Solar Tech
+  </text>
+  <text x="650" y="400" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#64748b">
+    78% Complete
+  </text>
+  <rect x="595" y="410" width="110" height="4" fill="#e2e8f0" rx="2"/>
+  <rect x="595" y="410" width="86" height="4" fill="#10b981" rx="2"/>
+  
+  <!-- Labels -->
+  <text x="200" y="700" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Mobile View
+  </text>
+  <text x="575" y="700" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Tablet View
+  </text>
+  
+  <!-- Feature highlights -->
+  <text x="400" y="750" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Responsive Design Features
+  </text>
+  <text x="50" y="780" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    ✓ Optimized for all screen sizes
+  </text>
+  <text x="50" y="800" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    ✓ Touch-friendly interface
+  </text>
+  <text x="50" y="820" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    ✓ Progressive course cards
+  </text>
+  <text x="400" y="780" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    ✓ Adaptive grid layouts
+  </text>
+  <text x="400" y="800" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    ✓ Consistent user experience
+  </text>
+  <text x="400" y="820" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    ✓ Fast loading on mobile networks
+  </text>
+</svg>
