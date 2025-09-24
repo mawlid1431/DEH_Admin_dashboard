@@ -260,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### MIT License Summary
 ```
-Copyright (c) 2023 Mowlid Haibe - Digital Empowerment Hub
+Copyright (c) 2025 Mowlid Haibe - Digital Empowerment Hub
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -287,8 +287,8 @@ SOFTWARE.
 **Mowlid Haibe**  
 *Digital Empowerment Hub Founder & Lead Developer*
 - 📧 Email: [malitmohamud@gmail.com](mailto:malitmohamud@gmail.com)
-- 🌐 LinkedIn: [Connect with me](https://linkedin.com/in/mowlid-haibe)
-- 🐙 GitHub: [@mowlid-haibe](https://github.com/mowlid-haibe)
+- 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/mowlid-mohamoud-haibe-8b7b6a189/)
+- 🐙 GitHub: [@mowlid-haibe](https://github.com/mawlid1431)
 
 ### Project Information
 - **Project Start Date**: September 23, 2025
