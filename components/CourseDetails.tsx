@@ -335,7 +335,7 @@ export function CourseDetails({ courseId, onBack }: CourseDetailsProps) {
                                   <div className="flex items-center space-x-3">
                                     <Checkbox
                                       checked={chapter.isCompleted}
-                                      onCheckedChange={(checked) => {
+                                      onCheckedChange={(_checked) => {
                                         toggleChapterCompletion(course.id, chapter.id);
                                       }}
                                       className="data-[state=checked]:bg-green-500 data-[state=checked]:border-green-500 w-5 h-5"
