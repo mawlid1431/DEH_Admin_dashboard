@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Button } from './ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { Badge } from './ui/badge';
@@ -17,7 +17,7 @@ interface CourseDetailsProps {
 }
 
 export function CourseDetails({ courseId, onBack }: CourseDetailsProps) {
-  const { user, logout } = useAuth();
+  const { logout } = useAuth();
   const { getCourse, registerForCourse, toggleChapterCompletion } = useCourses();
   const [expandedChapters, setExpandedChapters] = useState<Set<string>>(new Set());
   
@@ -335,8 +335,7 @@ export function CourseDetails({ courseId, onBack }: CourseDetailsProps) {
                                   <div className="flex items-center space-x-3">
                                     <Checkbox
                                       checked={chapter.isCompleted}
-                                      onCheckedChange={(e) => {
-                                        e.stopPropagation();
+                                      onCheckedChange={(checked) => {
                                         toggleChapterCompletion(course.id, chapter.id);
                                       }}
                                       className="data-[state=checked]:bg-green-500 data-[state=checked]:border-green-500 w-5 h-5"
